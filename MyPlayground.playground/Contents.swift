@@ -17,3 +17,5 @@ while i < 10 {
     i = i * 2
     
 }
+
+print ("Funciona Caralho")
